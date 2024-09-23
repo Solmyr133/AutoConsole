@@ -8,6 +8,13 @@ namespace AutoConsole
 {
     internal class Program
     {
+        public static List<object> carList = new List<object>();
+
+        public static void Feladat1()
+        {
+
+        }
+
         static void Main()
         {
 
